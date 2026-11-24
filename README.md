@@ -5,5 +5,8 @@
 - [Create a react app with vite](wmc/3/wmc3_develop_react.html)
 - [State Management in React](wmc/3/wmc3_react_state_slides.html)
 - [React: Fetch api data](wmc/3/wmc3_react_fetch_slides.html)
+- [React: Fetch api data with axios](wmc/3/wmc3_react_fetch_w_axios_slides.html)
+- [JS: async / await](wmc/3/wmc3_async_await.md)
+- [ORM-Mapper: sequelize](wmc/3/wmc3_sequelize.html)
 
 
